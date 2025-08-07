@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "files/figures/Face.jpg"
+  avatar           : "Face.jpg"
   name             : "Michal Kloc"
   pronouns         : # example: "she/her"  
   bio              : "A physicist who has found his mission in biology and medicine"
