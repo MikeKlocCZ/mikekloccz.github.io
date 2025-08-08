@@ -12,7 +12,7 @@ I am a data scientist working in computational cancer biology. I am especially i
 
 I am part of Momo Bentires-Alj [research lab](https://bentireslab.org/article-page/),  and also a member of Swiss Institute of Bioinformatics in the group of [Robert Ivanek](https://www.sib.swiss/directory/group/dbm-bioinformatics-core-facility).
 
-I am one of the founders of [RXcel](rxcel.ch), a start-up where we aim at designing "smart" therapeutic RNAs to target brain tumors.
+I am one of the founders of [RXcel](https://rxcel.ch), a start-up where we aim at designing "smart" therapeutic RNAs to target brain tumors.
 
 ## My Interests
 
