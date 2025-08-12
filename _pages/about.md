@@ -21,7 +21,7 @@ Next to the world of math, biology and data, there is another one that completel
 There are roughly four main areas I am currently particularly interested in
 *   What can we learn about [cell-cell interactions in single-cell](https://github.com/MikeKlocCZ/2025_scRNA_brain_mets_MassagueJ)  data how can we overlay multiple modalities, mainly with spatially-resolved data.
 
-*  How can we infer reliably kinase activities from phosphoproteomic data to help identify novel therapeutical targets.
+*  How can we infer reliably kinase activities from phosphoproteomic data to help identify novel therapeutic targets.
 
 * How dynamical pattens in intracellular signaling determine cell fate or how precisely  we can model transcriptional regulation from sparse time-resolved sequencing or qPCR data.
 
