@@ -14,7 +14,7 @@ I am part of [Momo Bentires-Alj](https://bentireslab.org/article-page/) research
 
 I am one of the founders of [RXcel](https://rxcel.ch), a start-up where we aim at designing "smart" therapeutic RNAs to target aggressive solid tumors.
 
-Next to the world of math, biology and data, there is another one that completely immerses me from time to time, and that's music. You can listen to some of my  production on [Soundcloud]((https://soundcloud.com/michael-kloc).
+Next to the world of math, biology and data, there is another one that completely immerses me from time to time, and that's music. You can listen to some of my  production on [Soundcloud](https://soundcloud.com/michael-kloc).
 
 ## My Interests
 
