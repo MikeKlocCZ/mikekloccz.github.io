@@ -8,7 +8,12 @@ redirect_from:
 ---
 
 ## My Mission
-I am a data scientist working in computational cancer biology. I am especially interested in digging through complex datasets to find insights  that can ultimately lead to better therapies for patients. This definitely isn’t a solo mission. Modern biology is incredibly complex, so I work closely with molecular biologists, immunologists, and clinicians. Together, we design experiments, analyse the data and try to understand the underlying principles of cancer progression and translate them into clinics.
+I am a data scientist working in computational cancer biology. My job is to derive useful insights from "big data" that are generated in the lab or clinics.  One such insight can be identification of  novel molecular targets in genomic data that can potentially open new therapeutic or diagnostic options. The tools I am using range from  statistical inference to modern machine learning approaches.
+
+
+<!-- * 
+ I am especially interested in digging through complex datasets to find insights  that can ultimately lead to better therapies for patients. This definitely isn’t a solo mission. Modern biology is incredibly complex, so I work closely with molecular biologists, immunologists, and clinicians. Together, we design experiments, analyse the data and try to understand the underlying principles of cancer progression and translate them into clinics.
+  -->
 
 I am part of [Momo Bentires-Alj](https://bentireslab.org/article-page/) research lab,   and also a member of Swiss Institute of Bioinformatics in the group of [Robert Ivanek](https://www.sib.swiss/directory/group/dbm-bioinformatics-core-facility).
 
