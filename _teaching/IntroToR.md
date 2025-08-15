@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/IntroToR
 venue: "University of Basel"
-date: 2022-01-01
+date: 2025-01-01
 location: "Basel, Switzerland"
 ---
 
