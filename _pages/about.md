@@ -7,17 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-## My Mission
-I am a data scientist working in computational cancer biology. My job is to derive useful insights from "big data" that are generated in the lab or clinics.  One such insight can be identification of  novel molecular targets in genomic data that can potentially open new therapeutic or diagnostic options. The tools I am using range from  statistical inference to modern machine learning approaches.
+## Who am I?
+*  **A data scientist working in computational cancer biology**. My job is to derive useful insights from "big data" that are generated in the lab or clinics to find new therapeutic or diagnostic options for patients. The tools I am using range from  statistical inference to machine learning approaches.
 
+* **Member  of [Momo Bentires-Alj](https://bentireslab.org/article-page/) research lab,   and also a member of Swiss Institute of Bioinformatics in the group of [Robert Ivanek](https://www.sib.swiss/directory/group/dbm-bioinformatics-core-facility)**.
 
-<!-- * 
- I am especially interested in digging through complex datasets to find insights  that can ultimately lead to better therapies for patients. This definitely isn’t a solo mission. Modern biology is incredibly complex, so I work closely with molecular biologists, immunologists, and clinicians. Together, we design experiments, analyse the data and try to understand the underlying principles of cancer progression and translate them into clinics.
-  -->
-
-I am part of [Momo Bentires-Alj](https://bentireslab.org/article-page/) research lab,   and also a member of Swiss Institute of Bioinformatics in the group of [Robert Ivanek](https://www.sib.swiss/directory/group/dbm-bioinformatics-core-facility).
-
-I am one of the founders of [RXcel](https://rxcel.ch), a start-up where we aim at designing "smart" therapeutic RNAs to target aggressive solid tumors.
+*  One of the **founders of [RXcel](https://rxcel.ch)**, a start-up where we aim at designing "smart" therapeutic RNAs to target aggressive solid tumors.
 
 Next to the world of math, biology and data, there is another one that completely immerses me from time to time, and that's music. You can listen to some of my  production on [Soundcloud](https://soundcloud.com/michael-kloc).
 
