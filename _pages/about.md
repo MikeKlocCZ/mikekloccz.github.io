@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-## Who am I?
-*  **A data scientist working in computational cancer biology**. My job is to derive useful insights from "big data" that are generated in the lab or clinics to find new therapeutic or diagnostic options for patients. The tools I am using range from  statistical inference to machine learning approaches.
+## About Me
+*  *A data scientist working in computational cancer biology*. My job is to derive useful insights from "big data" that are generated in the lab or clinics to find new therapeutic or diagnostic options for patients. The tools I am using range from  statistical inference to machine learning approaches.
 
-* **Member  of [Momo Bentires-Alj](https://bentireslab.org/article-page/) research lab,   and also a member of Swiss Institute of Bioinformatics in the group of [Robert Ivanek](https://www.sib.swiss/directory/group/dbm-bioinformatics-core-facility)**.
+* Member  of [Momo Bentires-Alj](https://bentireslab.org/article-page/) research lab,   and also a member of *Swiss Institute of Bioinformatics *in the group of [Robert Ivanek](https://www.sib.swiss/directory/group/dbm-bioinformatics-core-facility).
 
-*  One of the **founders of [RXcel](https://rxcel.ch)**, a start-up where we aim at designing "smart" therapeutic RNAs to target aggressive solid tumors.
+*  One of the *founders of [RXcel](https://rxcel.ch)*, a start-up where we aim at designing "smart" therapeutic RNAs to target aggressive solid tumors.
 
 Next to the world of math, biology and data, there is another one that completely immerses me from time to time, and that's music. You can listen to some of my  production on [Soundcloud](https://soundcloud.com/michael-kloc).
 
