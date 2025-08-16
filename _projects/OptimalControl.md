@@ -31,7 +31,9 @@ But in many cases there is a model that "reasonably well" reflects the dynamics 
 </figure>
 
 See the original publications:
+
 [Frank Schäfer, Michal Kloc, Christoph Bruder and Niels Lörch, 2020 *Mach. Learn.: Sci. Technol.* **1** 035009](https://iopscience.iop.org/article/10.1088/2632-2153/ab9802/meta)
+
 [Frank Schäfer, Pavel Sekatski, Martin Koppenhöfer, Christoph Bruder and Michal Kloc, 2021 *Mach. Learn.: Sci. Technol.* **2** 035004](https://iopscience.iop.org/article/10.1088/2632-2153/abec22/meta)
 
 If you want to learn more about quantum computation, perhaps check [my lectures](https://mikekloccz.github.io/teaching/QuantumCommunication).
