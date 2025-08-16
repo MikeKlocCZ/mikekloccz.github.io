@@ -41,10 +41,9 @@ If you want to learn more about quantum computation, perhaps check [my lectures]
 
 ## Decoding ER$$\alpha$$-GATA3 regulation in ER positive breast cancer
 
-
 <figure>
   <img src="/images/er_gata.png" alt="Inferring regulation between two transcription factors">
-  <figcaption>Figure 2: Dynamics of ER$$\alpha$$-GATA3 regulation.</figcaption>
+  <figcaption>Figure 2: Dynamics of ER-GATA3 regulation. UDE stands for solution using  Universal Differential Equations.</figcaption>
 </figure>
 
 
