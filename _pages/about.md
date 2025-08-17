@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## About Me
-*  *A data scientist working in computational cancer biology*. My job is to derive useful insights from "big data" that are generated in the lab or clinics to find new therapeutic or diagnostic options for patients. The tools I am using range from  statistical inference to machine learning approaches.
+*  *A data scientist working in computational cancer biology*. My job is to derive useful insights from "big data" that are generated in the lab or clinics to find new therapeutic or diagnostic options for patients. The tools I am using range from "the good old" statistical inference to modern machine learning approaches.
 
 * Member  of [Momo Bentires-Alj](https://bentireslab.org/article-page/) research lab,   and also a member of *Swiss Institute of Bioinformatics* in the group of [Robert Ivanek](https://www.sib.swiss/directory/group/dbm-bioinformatics-core-facility).
 
@@ -27,7 +27,10 @@ There are roughly four main areas I am currently particularly interested in
 
 * How "smart" RNA design allows to control optimal delivery profile of the effector protein.
 
-For more details, see the Project section.
+## What Can Be Found Here
+Reason for these pages is to communicate results, thoughts and experience that not always end in papers that one can read afterwards. I can imagine it will be constantly under construction, but already now you can check the [Projects](https://mikekloccz.github.io/projects/) section where I give quick description about some recently finished or running projects. Some of the talks I have been giving are in section [Talks](https://mikekloccz.github.io/talks/). Some are really just technical about my experience with different bioinfomatics tools which I believe can be valuable to communicate in the community, but is exactly the case of things that will never get published by itself. If time allowes, I will add more "blog posts" about these topics in the future, and not just the pdf slides.
+
+
 
 
 
