@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## What Can Be Found Here
+## Welcome
 Reason for these pages is to communicate results, thoughts and experience that not always end in papers that one can read afterwards. I can imagine it will be constantly under construction, but already now you can check the [Projects](https://mikekloccz.github.io/projects/) section where I give quick description about some recently finished or running projects. Some of the talks I have been giving are in section [Talks](https://mikekloccz.github.io/talks/). Some are really just technical about my experience with different bioinfomatics tools which I believe can be valuable to communicate in the community, but is exactly the case of things that will never get published by itself. If time allowes, I will add more "blog posts" about these topics in the future, and not just the pdf slides.
 
 
