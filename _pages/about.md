@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 
-## Welcome
-Reason for these pages is to communicate results, thoughts and experience that not always end in papers that one can read afterwards. I can imagine it will be constantly under construction, but already now you can check the [Projects](https://mikekloccz.github.io/projects/) section where I give quick description about some recently finished or running projects. Some of the talks I have been giving are in section [Talks](https://mikekloccz.github.io/talks/). Some are really just technical about my experience with different bioinfomatics tools which I believe can be valuable to communicate in the community, but is exactly the case of things that will never get published by itself. If time allowes, I will add more "blog posts" about these topics in the future, and not just the pdf slides.
-
 
 ## About Me
 *  *A data scientist working in computational cancer biology*. My job is to derive useful insights from "big data" that are generated in the lab or clinics to find new therapeutic or diagnostic options for patients. The tools I am using range from "the good old" statistical inference to modern machine learning approaches.
@@ -43,3 +40,8 @@ There are roughly four main areas I am currently particularly interested in
 
 ## My Journey
 I studied Physics at Charles University in Prague. My field of study was Nuclear and Subnuclear Physics. For my PhD I joint the group of [Prof. Pavel Cejnar](https://ipnp.cz/cejnar/publikace/clanky.html) where I specialized in Computational Quantum Physics of Many-Body Systems. After my PhD I was a visiting scientist at Technical University in Berlin and then I moved to Basel in 2019. I started as a post-doc in the group of [Prof. Christoph Bruder](https://quantumtheory-bruder.physik.unibas.ch/en/) where we worked on optimal control using tools of scientific machine learning. In 2021, I made a career shift towards biology and joined the lab of [Prof. Momo Bentires-Alj](https://bentireslab.org/article-page/). In 2023, I co-founded RXcel.
+
+
+
+## What Can Be Found Here
+Reason for these pages is to communicate results, thoughts and experience that not always end in papers that one can read afterwards. I can imagine it will be constantly under construction, but already now you can check the [Projects](https://mikekloccz.github.io/projects/) section where I give quick description about some recently finished or running projects. Some of the talks I have been giving are in section [Talks](https://mikekloccz.github.io/talks/). Some are really just technical about my experience with different bioinfomatics tools which I believe can be valuable to communicate in the community, but is exactly the case of things that will never get published by itself. If time allowes, I will add more "blog posts" about these topics in the future, and not just the pdf slides.
