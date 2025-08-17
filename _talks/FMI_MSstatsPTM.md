@@ -12,7 +12,7 @@ Contribution in the CompBio/ML seminar at FMI.
 
 User's experience with analysis of phosphoproteomic data set purely within MSstats environment
 
-<iframe src="/files/FMI_MSstatsPTM.pdf" width="100%" height="600px">
+<iframe src="/files/FMI_Michal_MSstatsPTM_2024.pdf" width="100%" height="600px">
     Your browser does not support PDFs. 
-    <a href="/files/FMI_MSstatsPTM.pdf">Download Presentation</a>
+    <a href="/files/FMI_Michal_MSstatsPTM_2024.pdf">Download Presentation</a>
 </iframe>
