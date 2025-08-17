@@ -1,5 +1,5 @@
 ---
-title: "Nested experimental design with *edgeR*, *limma* and *Dream*"
+title: "Nested Experimental Design with *edgeR*, *limma* and *Dream*"
 collection: talks
 type: "Seminar"
 permalink: /talks/FMI_NestedDesigns
