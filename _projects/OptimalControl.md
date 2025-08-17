@@ -39,11 +39,24 @@ See the original publications:
 If you want to learn more about quantum computation, perhaps check [my lectures](https://mikekloccz.github.io/teaching/QuantumCommunication).
 
 
-## Decoding ER$$\alpha$$-GATA3 regulation in ER positive breast cancer
+## Decoding ER$$\alpha$$-GATA3 Regulation in ER-positive Breast Cancer
+Breast cancer (BC) is the most frequent cancer among women. One in eight women will develop the disease in their lifetime. Fortunately, up to 80\%  of the cases are so-called ER-positive  where cancer proliferation is dependent on signalling vie estrogen receptor (ER) making is a suitable target for therapies. Clinically successful contain selective estrogen receptor modulators ([SERMs](https://en.wikipedia.org/wiki/Selective_estrogen_receptor_modulator)), degraders ([SERDs](https://en.wikipedia.org/wiki/Selective_estrogen_receptor_degrader)), and [aromathase inhibitors](https://en.wikipedia.org/wiki/Aromatase_inhibitor). Their use depends on patient's clinical status. However,  resistance can develop during prolonged treatment. Thus, understanding details of ER signalling remains  important to identify further therapeutic vulnerabilities.
+
+ER is a nuclear receptor (see Figure 2) which upon ligation by estradion (E2) dimerizes and relocates to nucleus where it starts its transriptional program. Multiple co-factors are needed for the signalling. The most important ones are FOXA1 and GATA3. It has been reported that GATA3 coregulates expression of ER in a form of a negative feedback loop. There were also attempts to quantitatively model this relation using multiplicatively-coupled feedback loops. However, the fitted parameters often lacked plausible biological meaning. As an example, in the above mentioned Hill functions, the cooperativity parameter $$n$$  is known from the biology. Since ER forms dimers $$n = 2$$, while GATA3 is a monomer $$n = 1$$. When these parameters are fixed, the simple ODE based model with multiplicatively-coupled feedback looks cannot fully reflect the dynamics. So the model perhaps misses some pieced of the dynamics. The idea is to try to learn this missing piece from the data with an approach that is sometimes called [Universal Differential Equations (UDEs)](https://arxiv.org/abs/2001.04385) but basically it's a synonym for neural ODEs for this specific application. In the first step the "traditional" mechanistic model is fitted to the data. In the next step a small neural network (NN)  is added to the ODE model according to an educated guess. In other words, one examines the equations to identify where important dynamics may be missing. Then, the NN is initiated with small weights (we are learning possibly small corrections) and the system is retrained with the  parameters from the original ODE already fixed.  The result is shown in Figure 2 as well. 
+
+
 
 <figure>
   <img src="/images/er_gata.png" alt="Inferring regulation between two transcription factors">
   <figcaption>Figure 2: Dynamics of ER-GATA3 regulation. UDE stands for solution using  Universal Differential Equations.</figcaption>
 </figure>
+
+The procedure normally does not end here, since one might not be so impressed in the end that highly parametrized NN that we add to the ODE can approximate "nearly any dynamics". The final goal is to find an algebraic representation of the NN and thus to learn a mechanistic model of the dynamics that can, indeed, be written as a standard ODE, solved, and tested on parameter perturbations (for instance). To that end, one usually implements sparse regression algorithms like [SINDy](https://en.wikipedia.org/wiki/Sparse_identification_of_non-linear_dynamics). In biological systems things are a little more complicated, so one needs to use the [implicit version](https://royalsocietypublishing.org/doi/10.1098/rspa.2020.0279) of this algorithm. 
+
+I have presented some preliminary results on recent conferences, the slides can be found [here](https://mikekloccz.github.io/talks/ER_GATA_nODEs)
+
+A perfect reading on this topic is [PhD thesis of Patrick Kidger](https://arxiv.org/abs/2202.02435).
+
+I hope more updates will come in the near future!
 
 
