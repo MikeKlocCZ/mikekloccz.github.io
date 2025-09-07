@@ -21,7 +21,7 @@ Next to the world of math, biology and data, there is another one that completel
 
 ## My Interests
 
-There are roughly four main areas I am currently particularly interested in:
+There are the main areas I am currently particularly interested in:
 
 *   What can we learn about [cell-cell interactions in single-cell](https://github.com/MikeKlocCZ/2025_scRNA_brain_mets_MassagueJ)  data how can we overlay multiple modalities, mainly with spatially-resolved data.
 
