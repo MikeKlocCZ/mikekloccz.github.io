@@ -10,10 +10,12 @@ redirect_from:
 ## Understanding The World Through Data and Mathematics
 There is an old saying , attributed to Galileo, that the laws of Nature are written in the language of mathematics. After 10+ years in quantitative research, I can only confirm: he was right. I am trained as a theoretical and computational physicist but over my career I have had the opportunity to apply mathematics across multiple fields of research, including quantum computing, engineering, biology, and medicine. Currently, I work in computational cancer biology, where I take on multiple roles. First, I provide statistical consulting and data analysis for pre-clinical and clinical research projects, and together with wet-lab researchers, I help interpret the data. Second, I develop novel machine learning–based approaches to uncover dynamical patterns in biological data, with the potential to predict cell fate under drug perturbations. And third, I am interested in biotech business development, as I want to better understand how research can be translated into real-world impact.
 
-I am
-* A member  of [Momo Bentires-Alj](https://bentireslab.org/article-page/) research lab,   and also a member of *Swiss Institute of Bioinformatics* in the group of [Robert Ivanek](https://www.sib.swiss/directory/group/dbm-bioinformatics-core-facility).
+These are the research groups  and institutions where I am currently active: 
+* The lab of  [Momo Bentires-Alj](https://bentireslab.org/article-page/) at the Department of Biomedicine at the  University Hospital  and University of Basel. Main goal of the lab is to understand mechanisms of resistance in breast cancer.
 
-*  One of the *founders of [RXcel](https://rxcel.ch)*, a pre-seed start-up where we aim at designing "smart" therapeutic RNAs to target aggressive solid tumors.
+ * The group of [Robert Ivanek](https://www.sib.swiss/directory/group/dbm-bioinformatics-core-facility)  within the *Swiss Institute of Bioinformatics*. This group is a bioinformatics core group at the Department of Biomedicine. I have also close collaborations with the group of [Michael Stadler](https://www.fmi.ch/platforms/platform.html?plt=115)  at Friedrich Miescher Institute.
+
+*   [RXcel](https://rxcel.ch), a pre-seed start-up which I co-founded with the aim of designing "smart" therapeutic RNAs to target aggressive solid tumors.
 
 Next to the world of math, biology and data, there is another one that completely immerses me from time to time, and that's music. You can listen to some of my  production on [Soundcloud](https://soundcloud.com/michael-kloc).
 
