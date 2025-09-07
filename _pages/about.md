@@ -13,7 +13,7 @@ There is an old saying , attributed to Galileo, that the laws of Nature are writ
 These are the research groups  and institutions where I am currently active: 
 * The lab of  [Momo Bentires-Alj](https://bentireslab.org/article-page/) at the Department of Biomedicine at the  University Hospital  and University of Basel. Main goal of the lab is to understand mechanisms of resistance in breast cancer.
 
- * The group of [Robert Ivanek](https://www.sib.swiss/directory/group/dbm-bioinformatics-core-facility)  within the *Swiss Institute of Bioinformatics*. This group is a bioinformatics core group at the Department of Biomedicine. I have also close collaborations with the group of [Michael Stadler](https://www.fmi.ch/platforms/platform.html?plt=115)  at Friedrich Miescher Institute.
+ * The group of [Robert Ivanek](https://www.sib.swiss/directory/group/dbm-bioinformatics-core-facility)  within the *Swiss Institute of Bioinformatics*. This group is a bioinformatics core group at the Department of Biomedicine. I have also close collaborations with the group of [Michael Stadler](https://www.fmi.ch/platforms/platform.html?plt=115)  at Friedrich Miescher Institute (Novartis).
 
 *   [RXcel](https://rxcel.ch), a pre-seed start-up which I co-founded with the aim of designing "smart" therapeutic RNAs to target aggressive solid tumors.
 
