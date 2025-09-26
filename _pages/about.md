@@ -42,7 +42,7 @@ There are the main areas I am currently particularly interested in:
  -->
 
 ## My Journey
-I studied Physics at Charles University in Prague. My field of study was Nuclear and Subnuclear Physics. For my PhD I joined the group of [Prof. Pavel Cejnar](https://ipnp.cz/cejnar/publikace/clanky.html) where I specialized in Computational Quantum Physics of Many-Body Systems. After my PhD I was a visiting scientist at Technical University in Berlin and then I moved to Basel in 2019. I started as a post-doc in the group of [Prof. Christoph Bruder](https://quantumtheory-bruder.physik.unibas.ch/en/) where we worked on optimal control with machine learning. In 2021, I made a career shift towards biomedicine  and joined the lab of [Prof. Momo Bentires-Alj](https://bentireslab.org/article-page/). In 2023, I co-founded [RXcel](https://rxcel.ch).
+I studied Physics at Charles University in Prague. My field of study was Nuclear and Subnuclear Physics. For my PhD I joined the group of [Prof. Pavel Cejnar](https://ipnp.cz/cejnar/publikace/clanky.html) where I specialized in Computational Quantum Physics of Many-Body Systems. After my PhD I was a visiting scientist at Technical University in Berlin with [Dr. Gernot Schaller](https://www.hzdr.de/db/!ContMan.Visi.Card?pUser=143396&pNid=877) and then I moved to Basel in 2019. I started as a post-doc in the group of [Prof. Christoph Bruder](https://quantumtheory-bruder.physik.unibas.ch/en/) where we worked on optimal control with machine learning. In 2021, I made a career shift towards biomedicine  and joined the lab of [Prof. Momo Bentires-Alj](https://bentireslab.org/article-page/). In 2023, I co-founded [RXcel](https://rxcel.ch).
 
 
 
