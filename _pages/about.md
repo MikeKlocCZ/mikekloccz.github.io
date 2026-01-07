@@ -10,6 +10,8 @@ redirect_from:
 ## What I Do 
 There is an old saying, attributed to Galileo, that the laws of Nature are written in the language of mathematics. After 10+ years in quantitative research, I can only confirm: he was right. I am trained as a theoretical and computational physicist but over my career I have had the opportunity to work in multiple fields of research, including quantum computing, engineering, biology, and medicine. Currently, I work in computational cancer biology, where I take on multiple roles. First, I provide statistical consulting and data analysis for pre-clinical and clinical research projects, and together with wet-lab researchers, I help interpret the data. Second, I develop novel machine learning–based approaches to uncover dynamical patterns in biological data, with the potential to predict cell fate under drug perturbations. And third, I am interested in biotech business development, as I want to better understand how research can be translated into real-world impact.
 
+Some time ago, I gave a presentation at a Science Slam in Basel called [Math Vs. Cancer](https://www.youtube.com/watch?v=Bf5xa5hdzhM).
+
 These are the research groups  and institutions where I am currently active: 
 * The lab of  [Momo Bentires-Alj](https://bentireslab.org/article-page/) at the Department of Biomedicine at the  University Hospital  and University of Basel. Main goal of the lab is to understand mechanisms of resistance in breast cancer.
 
