@@ -1,5 +1,5 @@
 ---
-title: "Quantum Computing and Communication"
+title: "Quantum Computation and Communication"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/QuantumCommunication
