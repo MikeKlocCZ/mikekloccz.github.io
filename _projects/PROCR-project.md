@@ -8,7 +8,7 @@ collection: projects
 
 RNAseq analysis of the mouse mammary tumors derived from PROCR+ mammary stem cells:
 
-[I.Signatures extraction ](/procr-files/SalvadorM_RNAseq_PROCR-tumor_chunks.html)
+[I. Signatures extraction ](/procr-files/SalvadorM_RNAseq_PROCR-tumor_chunks.html)
 
 [II. Survival analysis](/procr-files/SalvadorM_RNAseq_PROCR-tumor_chunks_survival.html)
 
