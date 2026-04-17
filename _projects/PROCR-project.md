@@ -1,6 +1,6 @@
 ---
-title: "Molecular Characteristics of Tumors Derived from PROCR+ Mammary Stem Cells"
-excerpt: "Exposure Matrix from Non-Negative Matrix Decomposition <br/><img src='/images/PROCR-intro.png'>"
+title: "Origins of Tumor Heterogenity in Breast Cancer"
+excerpt: "Learning Molecular Characteristics of Tumors Derived from  Mammary Stem Cells via Non-Negative Matrix Decomposition <br/><img src='/images/method_control.png' style='width: 200px;'>"
 collection: projects
 ---
 
