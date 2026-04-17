@@ -59,7 +59,7 @@ A perfect reading on this topic is [PhD thesis of Patrick Kidger](https://arxiv.
 
 See our related publication about the role of a glucocorticoid receptor (GR) activation on ER signaling in breast cancer
 
-[Madhuri Manivannan, Charly Jehanno, Michal Kloc et al, 2025 *EMBO Mol. Med. * **18** 151–186](https://link.springer.com/article/10.1038/s44321-025-00342-z).
+[Madhuri Manivannan, Charly Jehanno, Michal Kloc et al, 2025 *EMBO Mol. Med.* **18** 151–186](https://link.springer.com/article/10.1038/s44321-025-00342-z).
 
 I hope more updates will come in the near future!
 
