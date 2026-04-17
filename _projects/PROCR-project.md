@@ -1,6 +1,6 @@
 ---
-title: "Origins of Tumor Heterogenity in Breast Cancer"
-excerpt: "Learning Molecular Characteristics of Tumors Derived from  Mammary Stem Cells via Non-Negative Matrix Decomposition <br/><img src='/images/method_control.png' style='width: 200px;'>"
+title: "Origins of Tumor Heterogeneity in Breast Cancer"
+excerpt: "Learning Molecular Characteristics of Tumors Derived from  Mammary Stem Cells via Non-Negative Matrix Decomposition <br/><img src='/images/PROCR-intro.png' style='width: 500px;'>"
 collection: projects
 ---
 
